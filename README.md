@@ -6,12 +6,16 @@ Feel free to contribute to it!
 
 ## 📂 Docs
 
-1. [PYTHON](docs/python.md)
-2. [SQL](docs/sql.md)
-3. [UNIX](docs/unix.md)
-4. [TABLEAU](docs/tableau.md)
-5. [EXCEL](docs/excel.md)
-6. [POWER BI](docs/power_bi.md)
+1. [EXCEL](docs/excel.md)
+2. [ML](docs/machine_learning.md)
+3. [POWER BI](docs/power_bi.md)
+4. [PYTHON](docs/python.md)
+5. [REST API](docs/rest_api.md)
+6. [SQL](docs/sql.md) 
+7. [SYSTEM DESIGN](docs/system_design.md)
+8. [TABLEAU](docs/tableau.md)
+9. [UNIX](docs/unix.md)
+
 
 ## 📝 Important Links
 1. [Quick reference cheat-sheet](https://quickref.me/)
