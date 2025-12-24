@@ -1,4 +1,4 @@
-# 📘 InterviewPrep
+# 📘 interview-prep
 
 This repository contains curated notes and documentation for common tech interview topics, synced with Confluence.
 
@@ -26,8 +26,8 @@ Feel free to contribute to it!
 
 The following PDF resources are available for download:
 
-- <a href="https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions/Java-1%20Interview%20Questions.pdf">Java-1 Interview Questions (PDF)</a>
-- <a href="https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions/Java-2%20Interview%20Questions.pdf">Java-2 Interview Questions (PDF)</a>
-- <a href="https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions/Microservices%20Interview%20Questions.pdf">Microservices Interview Questions (PDF)</a>
-- <a href="https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions/REST%20API%20Interview%20Questions.pdf">Rest Api Interview Questions (PDF)</a>
-- <a href="https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions/Spring%20Boot%20Interview%20Questions.pdf">Spring Boot Interview Questions (PDF)</a>
+- <a href="https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions/Java-1%20Interview%20Questions.pdf">Java-1 Interview Questions (PDF)</a>
+- <a href="https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions/Java-2%20Interview%20Questions.pdf">Java-2 Interview Questions (PDF)</a>
+- <a href="https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions/Microservices%20Interview%20Questions.pdf">Microservices Interview Questions (PDF)</a>
+- <a href="https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions/REST%20API%20Interview%20Questions.pdf">Rest Api Interview Questions (PDF)</a>
+- <a href="https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions/Spring%20Boot%20Interview%20Questions.pdf">Spring Boot Interview Questions (PDF)</a>

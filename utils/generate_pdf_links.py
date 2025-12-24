@@ -4,7 +4,7 @@ import re
 PDF_DIR = "interview_questions"
 README_FILE = "README.md"
 SECTION_HEADER = "## 📥 Downloadable PDFs"
-GITHUB_REPO = "https://github.com/TaranjyotS/InterviewPrep/raw/main/interview_questions"  # ✅ Replace if needed
+GITHUB_REPO = "https://github.com/TaranjyotS/interview-prep/raw/main/interview_questions"  # ✅ Replace if needed
 
 def generate_pdf_section():
     pdf_files = sorted(f for f in os.listdir(PDF_DIR) if f.lower().endswith(".pdf"))
