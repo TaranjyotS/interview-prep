@@ -1,5 +1,5 @@
 
-# System Design – Highly Scalable Systems
+# SYSTEM DESIGN – Highly Scalable Systems
 
 ## Table of Contents
 

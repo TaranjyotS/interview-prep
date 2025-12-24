@@ -1,5 +1,5 @@
 
-# Machine Learning – Pipeline, Lifecycle, MLOps, Deep Learning & Interview Questions
+# MACHINE LEARNING – Pipeline, Lifecycle, MLOps, Deep Learning & Interview Questions
 
 A comprehensive reference covering:
 - Machine Learning fundamentals

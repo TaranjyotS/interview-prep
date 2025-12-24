@@ -1,4 +1,4 @@
-# My Profile
+# MY PROFILE
 
 ### **Introduction:**
 
