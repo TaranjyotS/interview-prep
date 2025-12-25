@@ -1,5 +1,7 @@
 # UNIX
 
+# UNIX
+
 Unix commands are the instructions or programs used to interact with the Unix operating system. They perform various operations, such as managing files, processes, users, and system settings. Here's a breakdown of some commonly used Unix commands, grouped by their categories and purposes:
 
 ### 1. **File and Directory Management**
@@ -58,7 +60,6 @@ Unix commands are the instructions or programs used to interact with the Unix op
 * `kill`: Sends a signal to a process.
 * `killall`: Kills all processes with the specified name.
 * `jobs`: Lists background jobs in the current shell session.
-
 * `fg` and `bg`: Resumes a stopped job in the foreground or background.
 
 ### 8. **Text Processing**

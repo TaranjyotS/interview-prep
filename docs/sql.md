@@ -1,5 +1,7 @@
 # SQL
 
+# SQL
+
 ### 1. **What is SQL?**
 
 **Answer:**  
@@ -13,17 +15,13 @@ SQL (Structured Query Language) is a standardized programming language used for 
 SQL commands are categorized into several types based on their functionality:
 
 1. **DDL (Data Definition Language):** Defines the database structure.
-
-   * `CREATE`, `ALTER`, `DROP`, `TRUNCATE`, `COMMENT`, `RENAME`
-2. **DML (Data Manipulation Language):** Manipulates data within the database.
-
-   * `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `MERGE`, `CALL`
-3. **DCL (Data Control Language):** Controls access to data.
-
-   * `GRANT`, `REVOKE`
-4. **TCL (Transaction Control Language):** Manages transactions within the database.
-
-   * `COMMIT`, `ROLLBACK`, `SAVEPOINT`
+2. `CREATE`, `ALTER`, `DROP`, `TRUNCATE`, `COMMENT`, `RENAME`
+3. **DML (Data Manipulation Language):** Manipulates data within the database.
+4. `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `MERGE`, `CALL`
+5. **DCL (Data Control Language):** Controls access to data.
+6. `GRANT`, `REVOKE`
+7. **TCL (Transaction Control Language):** Manages transactions within the database.
+8. `COMMIT`, `ROLLBACK`, `SAVEPOINT`
 
 **Example:**
 
@@ -33,10 +31,9 @@ SQL commands are categorized into several types based on their functionality:
 
 * **INNER JOIN:** Returns only the rows that have matching values in both tables.
 * **OUTER JOIN:** Returns all rows from one table and the matched rows from the other. If there is no match, NULL values are returned for columns from the other table. There are three types:
-
-  + **LEFT OUTER JOIN (LEFT JOIN):** All rows from the left table and matched rows from the right table.
-  + **RIGHT OUTER JOIN (RIGHT JOIN):** All rows from the right table and matched rows from the left table.
-  + **FULL OUTER JOIN:** All rows when there is a match in one of the tables.
+* **LEFT OUTER JOIN (LEFT JOIN):** All rows from the left table and matched rows from the right table.
+* **RIGHT OUTER JOIN (RIGHT JOIN):** All rows from the right table and matched rows from the left table.
+* **FULL OUTER JOIN:** All rows when there is a match in one of the tables.
 
 **Example:**
 
@@ -125,24 +122,21 @@ A `VIEW` is a virtual table based on the result-set of an SQL statement. It cont
 **Answer:**
 
 * **DELETE:**
-
-  + Removes rows from a table based on a `WHERE` clause.
-  + Can be rolled back if used within a transaction.
-  + Triggers are activated.
-  + Slower for large tables.
+* Removes rows from a table based on a `WHERE` clause.
+* Can be rolled back if used within a transaction.
+* Triggers are activated.
+* Slower for large tables.
 * **TRUNCATE:**
-
-  + Removes all rows from a table.
-  + Cannot be rolled back in some databases.
-  + Resets table identity.
-  + Faster than DELETE as it deallocates data pages.
-  + Triggers are not activated.
+* Removes all rows from a table.
+* Cannot be rolled back in some databases.
+* Resets table identity.
+* Faster than DELETE as it deallocates data pages.
+* Triggers are not activated.
 * **DROP:**
-
-  + Removes the entire table or database.
-  + All data and the table structure are deleted.
-  + Cannot be rolled back.
-  + Triggers are removed.
+* Removes the entire table or database.
+* All data and the table structure are deleted.
+* Cannot be rolled back.
+* Triggers are removed.
 
 **Example:**
 
